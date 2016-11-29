@@ -1,2 +1,0 @@
-# lainauskirja
-Transaktio hallinta demo
